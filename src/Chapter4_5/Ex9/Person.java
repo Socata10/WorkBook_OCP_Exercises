@@ -1,4 +1,4 @@
-package Chapter4_5.Ex8;
+package Chapter4_5.Ex9;
 
 public record Person(
         String name,
